@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-🚀 Passionate Data & Business Professional
+ I'm Samarth Shrivastava, a dedicated data enthusiast with a knack for turning data into meaningful insights and building innovative solutions.
 
-👋 Hey there! I'm Samarth Shrivastava, a dedicated data enthusiast with a knack for turning data into meaningful insights and building innovative solutions.
-
-📊 Business Analytics | Machine Learning | Data Science
+📊 Business Analytics | Machine Learning | Data Science | 🚀 Passionate Data & Business Professional
 
 💼 Worked as a Data Professional at TATA Consultancy Services(TCS). With 3 years of professional experience, I have had the opportunity to work in the IT industry where data driven business decisions are taken
 My primary role was:
