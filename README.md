@@ -26,4 +26,4 @@ My primary role was:
 📧 Email: samarthshrivastava9701@gmail.com
 🌐 Linkedin: Linkedin- Samarth Shrivastava
 👁️‍🗨️ Check out my latest projects below and feel free to reach out for collaboration or discussions!
-![image](https://github.com/samarthshrivastava9701/samarthshrivastava9701/assets/154257721/8186ee2e-0b41-4179-bc79-b411aec2bb6b)
+
