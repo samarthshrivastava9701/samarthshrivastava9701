@@ -4,7 +4,7 @@
 
 📊 Business Analytics | Machine Learning | Data Science | 🚀 Passionate Data & Business Professional
 
-💼 Worked as a Data Professional at TATA Consultancy Services(TCS). With 3 years of professional experience, I have had the opportunity to work in the IT industry where data driven business decisions are taken
+💼 Worked as a Data Professional at TATA Consultancy Services(TCS). With 3 years of professional experience, I have had the opportunity to work in the IT industry where data driven business decisions are taken.
 My primary role was:
 1.	To understand a business problem.
 2.	Convert it into a Data problem.
