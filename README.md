@@ -22,6 +22,6 @@ My primary role was:
 
 📢 Let's Connect!
 📧 Email: samarthshrivastava9701@gmail.com
-🌐 Linkedin: Linkedin- Samarth Shrivastava
+🌐 Linkedin: https://www.linkedin.com/in/samarth-shrivastava-97480a228/
 👁️‍🗨️ Check out my latest projects below and feel free to reach out for collaboration or discussions!
 
